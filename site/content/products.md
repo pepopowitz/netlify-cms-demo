@@ -1,19 +1,15 @@
 ---
-title: Our Coffee
+title: Hello
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Doing some stuff
+description: This is a bunch of stuff
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
+        We sell green and roasted coffee BEEEEANS that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
@@ -38,10 +34,10 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What we offer?
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
+    Kaldi is the ultimate spot for COOOFFEEEEEE lovers who want to learn about
+    their java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 main:
